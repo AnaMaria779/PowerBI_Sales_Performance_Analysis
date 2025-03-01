@@ -47,9 +47,9 @@ The goal of this project is to provide a comprehensive analysis of sales data, i
 
 ## 🔍 Insights
 - The highest sales occur on *weekdays* rather than weekends.
-- The *Office Supplies* category contributes the most to overall sales.
-- Peak sales hours are between *12 PM - 3 PM*.
-- The store located in *California* performs better than others.
+- The *Coffee* category contributes the most to overall sales.
+- Peak sales hours are between *7 AM - 10 AM*.
+- The store *Hell's Kitchen* performs better than others.
 
 ---
 
@@ -66,20 +66,13 @@ The goal of this project is to provide a comprehensive analysis of sales data, i
 - DAX Functions
 - Advanced Data Visualization Techniques
 - Data Cleaning & Transformation
+
 ---
 
 ## How to Run the Project
 1. Download the *.pbix* file from the *Report* folder.
 2. Open with *Power BI Desktop*.
 3. Use the slicers to explore different months and filters.
-
----
-
-## 📄 Future Improvements
-- Add Forecasting Model
-- Implement Drill-through Pages
-- Interactive User Filtering Options
-
 ---
 
 ### Connect with Me:

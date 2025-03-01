@@ -68,7 +68,7 @@ The goal of this project is to provide a comprehensive analysis of sales data, i
 ---
 
 ## How to Run the Project
-1. Download the *.pbix* file from the *Report* folder.
+1. Download the *.pbix* file.
 2. Open with *Power BI Desktop*.
 3. Use the slicers to explore different months and filters.
 ---

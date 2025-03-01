@@ -47,7 +47,7 @@ The goal of this project is to provide a comprehensive analysis of sales data, i
 - The highest sales occur on *weekdays* rather than weekends.
 - The *Coffee* product category contributes the most to overall sales.
 - Peak sales hours are between *7 AM - 10 AM*.
-- The store *Hell's Kitchen* performs better than others.
+- The store located in *Hell's Kitchen* performs better than others.
 
 ---
 
